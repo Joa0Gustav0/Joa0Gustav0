@@ -11,4 +11,5 @@ Sou Gustavo!
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='...' width='50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='...' width='50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' alt='...' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' alt='...' width='50px'>
 </div>
