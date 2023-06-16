@@ -3,6 +3,7 @@ Sou Gustavo!
 
 - 📝 Iniciando em front-end!
 - 📚 Atualmente, estudando HTML5, CSS3 e JS
+- 🕹 Game deving nas horas vagas
 - 🌻 Qualquer pronome...
 - 🎠 Viva la vida!
 <hr>
