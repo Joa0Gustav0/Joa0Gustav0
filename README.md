@@ -1,8 +1,8 @@
 ### Hello, honey! 🌈💬
 Sou Gustavo!
 
-- 📝 Iniciando em front-end!
-- 📚 Atualmente, estudando HTML5, CSS3 e JS
+- 📝 Desenvolvedor front-end junior!
+- 📚 Atualmente, estudando ReactJS
 - 🕹 Game deving nas horas vagas
 - 🌻 Qualquer pronome...
 - 🎠 Viva la vida!
