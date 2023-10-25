@@ -2,7 +2,7 @@
 Sou Gustavo!
 
 - 📝 Desenvolvedor front-end junior!
-- 📚 Atualmente, estudando ReactJS
+- 📚 Atualmente, estudando Tailwind CSS
 - 🕹 Game deving nas horas vagas
 - 🌻 Qualquer pronome...
 - 🎠 Viva la vida!
