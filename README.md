@@ -17,4 +17,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git" />
 
+<hr>
+
+<div align="center">
+  <img width="200px" src="https://github.com/Joa0Gustav0/Joa0Gustav0/assets/135780151/93d80c16-7f4f-4428-8f59-e515438561bd" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
