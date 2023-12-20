@@ -15,7 +15,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=24&center=false&vCenter=true&width=1000&lines=>+Minhas+habilidades:;>+My+skills:;>+Mis+habilidades:;" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,git" />
 
 <hr>
 
