@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=100&section=header" width="100%" />
 <img src="https://readme-typing-svg.herokuapp.com/?color=636363&size=14&center=false&vCenter=true&width=1000&lines=lang>+@echo+>+pt-br;lang>+@echo+>+en;lang>+@echo+>+es;" />
 
 
@@ -22,4 +22,4 @@
   <img width="200px" src="https://github.com/Joa0Gustav0/Joa0Gustav0/assets/135780151/93d80c16-7f4f-4428-8f59-e515438561bd" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=100&section=footer"/>
