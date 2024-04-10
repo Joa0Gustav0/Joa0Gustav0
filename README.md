@@ -23,7 +23,7 @@
 <p>Front-End:</p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,git" />
 <p>Back-End:</p>
-<img src="https://skillicons.dev/icons?i=php,python,flask,mysql," />
+<img src="https://skillicons.dev/icons?i=python,flask,mysql," />
 <hr>
 
 <div align="center">
