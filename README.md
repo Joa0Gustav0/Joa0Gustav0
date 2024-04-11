@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHKM0mkxalJyg/profile-displaybackgroundimage-shrink_350_1400/0/1703712792043?e=1712793600&v=beta&t=PdlhBOPk1N6o3w4NX5ivITaJHi3unepoYv14JONkMo0" width="100%" />
+<img src="https://media.licdn.com/dms/image/D4E16AQHKM0mkxalJyg/profile-displaybackgroundimage-shrink_350_1400/0/1703712792043?e=1718236800&v=beta&t=QU9A236bnSj0ZBRjAJmCDoFp_pttRkVF0DVeKQ0zb-Q" width="100%" />
 <div align="right">
   <abbr title="Github"></abbr><a href="https://github.com/Joa0Gustav0"><img src="https://skillicons.dev/icons?i=github" width="50px" /></a></abbr>
   <abbr title="LinkedIn"><a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-silva-lima/"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" /></a></abbr>
