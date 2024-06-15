@@ -21,7 +21,7 @@
 
 <h2>Minhas Habilidades:</h2>
 <p>Front-End:</p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git" />
 <p>Back-End:</p>
 <img src="https://skillicons.dev/icons?i=python,flask,mysql," />
 <hr>
